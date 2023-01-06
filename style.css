@@ -42,3 +42,36 @@
     border-radius: 5px 5px;
     filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
 }
+.failures{
+    margin-top: 130px;
+    display: flex;
+    margin-left: 206px;
+}
+.details{
+    margin-left: 50px;
+    margin-top: 250px;
+}
+.details h1{
+    font-family: 'work sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 35px;
+}
+.details p{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    margin-top: 10px;
+}
+.check{
+    display: flex;
+    margin-top: -5px;
+}
+.check img{
+    margin-top: 15px;
+    margin-right: 15px;
+    height: 20px;
+    width: 20px;
+}

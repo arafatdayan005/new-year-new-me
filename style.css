@@ -122,3 +122,38 @@
 .ecom{
     margin-left: 20px;
 }
+/* Rectangle */
+.rectangle{
+    height: 300px;
+    width: 1200px;
+    margin: 130px auto;  
+    border-radius: 8px;
+    background: url(images/watch.png);
+    background-repeat: no-repeat;
+}
+.watch{
+    background: url(images/gradient2.png);
+    background-repeat: no-repeat;
+    height: 300px;
+}
+.watch h1{
+    font-family: 'Work Sans';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+    color: white;
+    margin-left: 65px;
+    padding-top: 60px;
+}
+.rectangle button{
+    background-color: #ffffff;
+    color: #F15B22;
+    border: 0;
+    margin-top: 25px;
+    margin-left: 65px;
+    font-family: 'work sans';
+    height: 64px;
+    width: 160px;
+    border-radius: 5px 5px;
+}
